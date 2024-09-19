@@ -2,7 +2,7 @@
 ![MasterHead](./header.png)
 <h1 align="center">Hi 👋, I'm Khushi Tikoo</h1>
 <h3 align="center">A passionate python developer from India</h3>
-img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/office-girl_1060575-1265.jpg?size=626&ext=jpg&ga=GA1.1.2022833823.1720003592&semt=ais_hybrid"
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/office-girl_1060575-1265.jpg?size=626&ext=jpg&ga=GA1.1.2022833823.1720003592&semt=ais_hybrid">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tikoo1508&label=Profile%20views&color=0e75b6&style=flat" alt="tikoo1508" /> </p>
 
